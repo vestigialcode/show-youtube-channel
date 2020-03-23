@@ -15,10 +15,10 @@ if(!defined('ABSPATH')){
 }
 
 // Load Scripts
-require_once(plugin_dir_path(__FILE__).'/includes/scripts.php');
+require_once(plugin_dir_path(__FILE__).'/inc/scripts.php');
 
 // Load Class
-require_once(plugin_dir_path(__FILE__).'/includes/class.php');
+require_once(plugin_dir_path(__FILE__).'/inc/class.php');
 
 // Register Widget
 function register_youtubesubs(){
