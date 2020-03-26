@@ -2,11 +2,12 @@
 A wordpress plugin for showing your youtube channel logo and live subscriber 
 
 ### how to use
-1.Download the repo
+1.Clone to local repo
 ```bash
 git clone https://github.com/vestigialcode/show-youtube-channel
 ```
-next you can directly upload zip file to wordpress
+and upload it to wp-content/plugin folder
+Or you can directly upload zip file to wordpress
 ```bash
 your-site.com/wp-admin/plugin-install.php
 ```
