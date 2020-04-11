@@ -1,5 +1,6 @@
 # show-youtube-channel
 A wordpress plugin for showing your youtube channel logo and live subscriber 
+Also users can able to subscribe directly
 
 ### how to use
 1.Clone to local repo
